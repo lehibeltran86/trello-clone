@@ -1,0 +1,28 @@
+{
+  "name": "trello-clone",
+  "version": "1.0.0",
+  "description": "trello-clone daniels",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lehibeltran86/trello-clone.git"
+  },
+  "keywords": [
+    "noobie"
+  ],
+  "author": "lehi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lehibeltran86/trello-clone/issues"
+  },
+  "homepage": "https://github.com/lehibeltran86/trello-clone#readme",
+  "dependencies": {
+    "angular-ui-router": "^0.3.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
